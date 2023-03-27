@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    background-color: lightseagreen;
+  margin: 1px;
+}
+.tle p{
+    font-size: 67px;
+    float:center;
+    padding-top: 30px;
+    padding-left: 40%;
+    padding-bottom: 40px;
+    margin: 0px;
+    background-color: rgb(237, 151, 120);
+    text-decoration-line:none;
+    text-shadow: 6PX 8PX 8PX ;
+}
+img{
+  width: 10%;
+  height: 66px;
+  float: right;
+  align-items: right;
+  padding:7px;
+  
+}
+img:hover{
+  background-color: lightpink;
+}
+marquee{
+  font-size: 50px;
+  font-weight: revert-layer;
+  color: whitesmoke;
+  background-color: rgb(182, 189, 255);
+}
+h1
+{
+  height: 152px;
+  width:100% ;
+  padding: 130px;
+  margin: 34px;
+  background-image:url('eeee.jfif') ;
+  background-position: center;
+   background-repeat: no-repeat;
+  background-size: 1280px;
+}
+
+.info{
+  
+  background-color: palegreen;
+  font-size: 30px;
+  padding:50px ;
+  margin: 20px;
+}
+a:hover{
+   background-color: orange;
+}
+#lef{
+  background-color: lightcyan;
+  float:left;
+  padding:45px;
+  /* align: center; */
+  width: 29.2%;
+
+}
+#cente{
+  background-color: goldenrod;
+  float:left;
+  padding:45px;
+  /* align: center; */
+  width: 32.1%;
+
+}
+.righ{
+  background-color: lightpink;
+  float:right;
+  padding:45px;
+  /* align: center; */
+  width: 28%;
+}
+.bc{
+  
+  
+  /* height=100px; */
+  margin: 60;
+  width: 100%;
+}
